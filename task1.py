@@ -10,7 +10,7 @@ milestone_increment = 1000
 
 # Calculate milestone progress
 current_milestone = current_followers // milestone_increment
-progress_in_milestones = current_followers % milestone_increment
+progress_in_milestone = current_followers % milestone_increment
 
 # Calculate growth statistics
 total_gained = current_followers - starting_followers
