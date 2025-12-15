@@ -22,7 +22,7 @@ weekly_growth = daily_average * 7
 
 # Display results with f-strings
 print(f"Creator: {creator_name}")
-print(f"Current Milestone: {current_milestone}"
+print(f"Current Milestone: {current_milestone}")
 print(f"Progress in Milestone: {progress_in_milestone} followers")
 print(f"Total Growth: {total_gained} followers")
 print(f"Daily Average: {daily_average} followers")
